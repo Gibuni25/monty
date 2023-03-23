@@ -1,1 +1,3 @@
-Project between David Gibuni and PASCAL Zury
+# Stacks, Queues - LIFO, FIFO
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Authors:  David Gibuni and PASCAL Zury
